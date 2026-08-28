@@ -78,8 +78,8 @@ A fun interactive game built using Java.
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: (Add your link here)
-* 🐙 GitHub: (Add your link here)
+* 💼 LinkedIn: (https://www.linkedin.com/in/rajalakshmi-gopikrishnan-542194329/)
+
 
 ---
 
